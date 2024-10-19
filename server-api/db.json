@@ -1,14 +1,3 @@
 {
-  "contacts": [
-    {
-      "id": "7da579b2-89f0-4657-aa2e-696e5b640bbf",
-      "name": "p",
-      "email": "p"
-    },
-    {
-      "id": "c0a57929-4b51-477e-a708-529b8d1681a0",
-      "name": "m",
-      "email": "m"
-    }
-  ]
+  "contacts": []
 }
